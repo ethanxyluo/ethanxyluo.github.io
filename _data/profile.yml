@@ -21,10 +21,14 @@ orcid: 0009-0007-5229-8733
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am currently pursuing a Ph.D. in EE at CityUHK, under the supervision of <a href="https://hlli1991.github.io/" target="_blank">Prof. Haoliang Li</a> 
+    Hi, it's Xinyu here. I am currently pursuing a Ph.D. in Department of Electrical Engineering at City University of Hong Kong, under the supervision of <a href="https://hlli1991.github.io/" target="_blank">Prof. Haoliang Li</a> 
     and <a href="https://sites.google.com/view/brainsyslab/home" target="_blank">Prof. Arindam Basu</a> (co-supervisor). 
+    Before this, I obtained my Bachelor of Engineering degree in Information Engineering from Southeast University in Nanjing.
     My research focus on domain shift learning and hardware-software co-design.
   </p>
+
+  <p>
+    Feel free to contact and communicate!
 
 portrait_url: /assets/images/photos/portrait.jpg
 # portrait_caption: >-
