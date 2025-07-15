@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Xinyu LUO"
 
 positions:
-- logo: /assets/images/badges/icon-cityu-2025.png  # Logo is optional
+- logo: /assets/images/badges/cityu.png  # Logo is optional
   name: Ph.D. Candidate @ City University of Hong Kong
 
 
