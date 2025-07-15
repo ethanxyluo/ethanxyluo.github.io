@@ -22,8 +22,8 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
     I am currently pursuing a Ph.D. in EE at CityUHK, under the supervision of <a href="https://hlli1991.github.io/" target="_blank">Prof. Haoliang Li</a> 
-    and <a href="https://sites.google.com/view/brainsyslab/home" target="_blank">Prof. Arindam Basu</a> (co-supervisor).
-    My research focus on out-of-distribution learning in machine learning and hardware-software co-design.
+    and <a href="https://sites.google.com/view/brainsyslab/home" target="_blank">Prof. Arindam Basu</a> (co-supervisor). 
+    My research focus on domain shift learning and hardware-software co-design.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
