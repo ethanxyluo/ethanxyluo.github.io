@@ -4,7 +4,7 @@ navbar_name: "Xinyu LUO"
 
 positions:
 - logo: /assets/images/badges/icon-cityu-2025.png  # Logo is optional
-  name: PhD Candidate @ City University of Hong Kong
+  name: Ph.D. Candidate @ City University of Hong Kong
 
 
 email: "ethanxyluo@gmail.com"
@@ -21,25 +21,26 @@ orcid: 0009-0007-5229-8733
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am currently pursuing a PhD in EE at CityUHK, under the supervision of Prof. Haoliang Li and Prof. Arindam Basu (co-supervisor).
+    I am currently pursuing a Ph.D. in EE at CityUHK, under the supervision of <a href="https://hlli1991.github.io/" target="_blank">Prof. Haoliang Li</a> 
+    and <a href="https://sites.google.com/view/brainsyslab/home" target="_blank">Prof. Arindam Basu</a> (co-supervisor).
     My research focus on out-of-distribution learning in machine learning and hardware-software co-design.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: City Univerisity of Hong Kong
+  logo: /assets/images/badges/icon-cityu-2025.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
+    Department of Electrical Engineering<br/>
+    Ph.D. Candidate
   date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+- name: Southeast University
+  logo: /assets/images/badges/seu.png
+  position: B.Eng. in Information Engineering
+  date: Sep. 2020 - Jun. 2024
 
 # experience:
 # - name: Peking University
