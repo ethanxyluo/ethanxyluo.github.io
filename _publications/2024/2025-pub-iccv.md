@@ -8,6 +8,7 @@ pub:            "International Conference on Computer Vision (ICCV)"
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2025"
 
+cover: /assets/images/covers/tta_crf.png
 authors:
   - Kecheng Chen
   - Xinyu Luo
