@@ -8,7 +8,7 @@ pub:            "IEEE Journal of Solid-State Circuits (JSSC)"
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2025"
 
-cover: /assets/images/covers/space.png
+cover: /assets/images/covers/jssc.png
 authors:
   - Junyi Yang
   - Xinyu Luo
