@@ -17,6 +17,6 @@ authors:
   - Arindam Basu
   - Haoliang Li
 links:
-  Paper: https://arxiv.org/pdf/2504.02298
+  Paper: https://proceedings.neurips.cc/paper_files/paper/2025/file/3d9f111e9139bb008ffdfc6b466f3bf5-Paper-Conference.pdf
   Code: https://github.com/ethanxyluo/SPACE
 ---
